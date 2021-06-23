@@ -1,0 +1,17 @@
+.text{
+background-color: blue ;
+}
+@media screen and (max-width: 768px) {
+    .text{
+        background-color: green;
+    }
+/* ecran tablete  max 768*/
+
+@media screen and (max-width: 480px){
+.text{
+    background-color: yellow;
+    }
+/* ecran smart 480*/
+
+    
+}
